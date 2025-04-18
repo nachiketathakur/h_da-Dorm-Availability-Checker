@@ -1,6 +1,6 @@
-# Payment Option Notifier for MSE Application Portal
+# Dorm Room Availability Notifier from MSE Application Portal
 
-This Python script uses Selenium to monitor the MSE HDA portal and sends an email alert when a third payment option appears in the "Payment" section of the dashboard.
+This Python script uses Selenium to monitor the MSE HDA portal and sends an email alert when a third payment option appears in the "Payment" section of the dashboard. The logic here is, whenever the third payment option is available under the "Payment" section of the Application Portal (Kopla), it would suggest that applications for the dorm rooms is open.
 
 ## Features
 - Uses Selenium to control a Chrome browser
